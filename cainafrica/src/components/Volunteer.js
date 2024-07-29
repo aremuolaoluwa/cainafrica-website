@@ -36,9 +36,7 @@ const Volunteer = (props) => {
             </TopImage>
 
             <FormWrapper>
-                <Iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetk4lNzfckBgTAZ-CFWlp3250QGaZ9L7oN76Wpai-XlU3_JQ/viewform" />
-
-                <Iframe src="https://goo.gl/forms/zDrRsMnnh3Y8YV6U2" />
+                <Iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetk4lNzfckBgTAZ-CFWlp3250QGaZ9L7oN76Wpai-XlU3_JQ/viewform" style={{width: "95%"}} />
                 
             </FormWrapper>
 
